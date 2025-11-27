@@ -1,4 +1,13 @@
-## Hi there 👋
+नमस्ते (Namaste)🙏🏻, I'm Deepu Maddheshiya
+<br>
+Exploring new technologies and developing Business solutions
+👀 I’m interested in competitive programming
+🌱 I’m currently learning PHP Laravel.
+💞️ I’m looking to collaborate on PYTHON Project.
+😄 Passionate about accessibility and committed to a web that works for everyone
+🖥️ Website
+
+
 
 <!--
 **Deepumaddheshiya/deepumaddheshiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
