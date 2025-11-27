@@ -1,4 +1,4 @@
-नमस्ते (Namaste)🙏🏻, I'm Deepu Maddheshiya
+                                                        नमस्ते (Namaste)🙏🏻, I'm Deepu Maddheshiya
 <br>
 Exploring new technologies and developing Business solutions
 👀 I’m interested in competitive programming
