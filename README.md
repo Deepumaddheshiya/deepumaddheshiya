@@ -9,8 +9,8 @@ Email Me 👉 ✉️ **maddheshiyadeepu2@gmail.com** For Collaboration/Project o
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepu-maddheshiya-889084308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@maddh84560) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maddheshiyadipu2@gmail.com) 
